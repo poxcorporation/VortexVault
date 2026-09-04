@@ -131,6 +131,9 @@ VortexVault no te dice qué publicar, cómo verte ni a quién dirigirte. No te r
 
 Código abierto. Libre para usar, modificar y distribuir **siempre respetando las reglas del proyecto** arriba mencionada.
 
+## Puedes ver como es nuestra plataforma con este enlacd
+http://vortexvault.ct.ws/
+
 ---
 
 > 💚 **Hecho con libertad y para la libertad — porque TÚ debes decidir qué ver, no un algoritmo.** — VortexVault
