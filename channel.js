@@ -1,0 +1,15 @@
+const CHANNELS = [
+  { id: "davidbravo971", name: "davidbravo971", subs: "1.2 M de suscriptores", desc: "" },
+  { id: "snapchatfiltros", name: "SnapchatFiltros", subs: "21M de suscriptores", desc: "" },
+  { id: "gato_jardinero", name: "Gato Jardinero", subs: "61 suscriptores", desc: "" },
+  { id: "plim_plim_oficial", name: "Plim plim Oficial", subs: "5M de suscriptores", desc: "" },
+  { id: "mya_y_juan_ythemes", name: "Mya y Juan YThemes", subs: "100k suscriptores", desc: "" },
+  { id: "mods_happymod", name: "Mods Happymod", subs: "15 suscriptores", desc: "" },
+  { id: "papas_sabritas_mx", name: "Papas Sabritas MX", subs: "72M suscriptores", desc: "" },
+  { id: "guillermo_merlo", name: "Guillermo Merlo", subs: "501 de suscriptores", desc: "" },
+  { id: "el_capitan_rojo", name: "El Capitan Rojo", subs: "72K de suscriptores", desc: "" },
+  { id: "mario_dominguez", name: "Mario Dominguez", subs: "157 suscriptores", desc: "" },
+  { id: "mcdonaldsarabia", name: "McDonaldsArabia", subs: "25M de suscriptores", desc: "" },
+  { id: "rocket_league_fifa_23", name: "Rocket League FIFA 23", subs: "1K suscriptores", desc: "" },
+  { id: "joe_potter", name: "Joe Potter", subs: "45M de suscriptores", desc: "" },
+];
