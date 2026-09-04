@@ -58,6 +58,7 @@ A diferencia de otras plataformas como PeerTube, VortexVault **no requiere infra
 - El nombre **VortexVault** ya pertenece a este proyecto. No puedes usarlo para nombrar proyectos diferentes.
 - **Sí puedes modificar el código** y adaptarlo a tus necesidades.
 - **Sí puedes cambiar el nombre** de tu versión si lo deseas.
+- IMG_8291.jpeg
 
 ### 2. 🎨 Sobre el diseño
 - **No se puede cambiar el diseño visual** del proyecto. La apariencia, estructura y disposición deben mantenerse igual.
@@ -67,6 +68,7 @@ A diferencia de otras plataformas como PeerTube, VortexVault **no requiere infra
 ### 3. 🎬 Sobre el reproductor
 - **El reproductor de videos NO se puede cambiar ni reemplazar.** Debe mantenerse el mismo que viene en el proyecto.
 - Es parte de la identidad y funcionalidad central de VortexVault.
+- IMG_8292.jpeg
 
 ### 4. 📢 Sobre el mensaje de bienvenida
 - El mensaje *"¿Quieres Crear Tu Plataforma de Videos?"* es **totalmente opcional**.
