@@ -25,6 +25,8 @@ VortexVault es una plataforma de videos de **código abierto** diseñada para se
 
 A diferencia de otras plataformas como PeerTube, VortexVault **no requiere infraestructura pesada**. Es ligera, rápida y funciona en cualquier lugar. 🪶
 
+/IMG_8291.jpeg
+
 ---
 
 ## ✨ Características principales
